@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragonhunter007.github.io/"/>
-  <updated>2020-07-08T07:54:50.526Z</updated>
+  <updated>2020-07-09T15:17:01.375Z</updated>
   <id>https://dragonhunter007.github.io/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test6</title>
+    <link href="https://dragonhunter007.github.io/2020/07/09/test6/"/>
+    <id>https://dragonhunter007.github.io/2020/07/09/test6/</id>
+    <published>2020-07-09T15:06:54.000Z</published>
+    <updated>2020-07-09T15:17:01.375Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test5</title>
+    <link href="https://dragonhunter007.github.io/2020/07/09/test5/"/>
+    <id>https://dragonhunter007.github.io/2020/07/09/test5/</id>
+    <published>2020-07-09T14:27:29.000Z</published>
+    <updated>2020-07-09T15:04:22.446Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test_video2</title>
     <link href="https://dragonhunter007.github.io/2020/07/08/test-video2/"/>
     <id>https://dragonhunter007.github.io/2020/07/08/test-video2/</id>
     <published>2020-07-08T05:40:45.000Z</published>
-    <updated>2020-07-08T07:54:50.526Z</updated>
+    <updated>2020-07-09T15:09:57.967Z</updated>
     
     <summary type="html">
     
@@ -96,7 +142,7 @@
     <link href="https://dragonhunter007.github.io/2020/07/08/test-music/"/>
     <id>https://dragonhunter007.github.io/2020/07/08/test-music/</id>
     <published>2020-07-07T17:02:33.000Z</published>
-    <updated>2020-07-09T13:50:23.181Z</updated>
+    <updated>2020-07-09T15:15:59.915Z</updated>
     
     <summary type="html">
     
@@ -121,7 +167,7 @@
     <link href="https://dragonhunter007.github.io/2020/07/07/test4/"/>
     <id>https://dragonhunter007.github.io/2020/07/07/test4/</id>
     <published>2020-07-07T05:08:08.000Z</published>
-    <updated>2020-07-07T06:38:11.396Z</updated>
+    <updated>2020-07-09T15:03:16.486Z</updated>
     
     <summary type="html">
     
@@ -129,7 +175,7 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;/2020/07/07/test4/spider_man_e_mj_by_nielisson_d9hargk-pre.jpg&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
