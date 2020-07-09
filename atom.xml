@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dragon Hunter Blog</title>
+  
+  <subtitle>Dragon Hunter Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://dragonhunter007.github.io/"/>
+  <updated>2020-07-08T07:54:50.526Z</updated>
+  <id>https://dragonhunter007.github.io/</id>
+  
+  <author>
+    <name>DragonHunter007</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test_video2</title>
+    <link href="https://dragonhunter007.github.io/2020/07/08/test-video2/"/>
+    <id>https://dragonhunter007.github.io/2020/07/08/test-video2/</id>
+    <published>2020-07-08T05:40:45.000Z</published>
+    <updated>2020-07-08T07:54:50.526Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="video" scheme="https://dragonhunter007.github.io/categories/video/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_video</title>
+    <link href="https://dragonhunter007.github.io/2020/07/08/test-video/"/>
+    <id>https://dragonhunter007.github.io/2020/07/08/test-video/</id>
+    <published>2020-07-08T05:19:11.000Z</published>
+    <updated>2020-07-08T05:31:01.198Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="video" scheme="https://dragonhunter007.github.io/categories/video/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_music2</title>
+    <link href="https://dragonhunter007.github.io/2020/07/08/test-music2/"/>
+    <id>https://dragonhunter007.github.io/2020/07/08/test-music2/</id>
+    <published>2020-07-07T17:14:52.000Z</published>
+    <updated>2020-07-08T04:59:46.332Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="picture" scheme="https://dragonhunter007.github.io/categories/picture/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_music</title>
+    <link href="https://dragonhunter007.github.io/2020/07/08/test-music/"/>
+    <id>https://dragonhunter007.github.io/2020/07/08/test-music/</id>
+    <published>2020-07-07T17:02:33.000Z</published>
+    <updated>2020-07-07T17:11:03.705Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="music" scheme="https://dragonhunter007.github.io/categories/music/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test4</title>
+    <link href="https://dragonhunter007.github.io/2020/07/07/test4/"/>
+    <id>https://dragonhunter007.github.io/2020/07/07/test4/</id>
+    <published>2020-07-07T05:08:08.000Z</published>
+    <updated>2020-07-07T06:38:11.396Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/2020/07/07/test4/spider_man_e_mj_by_nielisson_d9hargk-pre.jpg&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://dragonhunter007.github.io/2020/07/07/test2/"/>
+    <id>https://dragonhunter007.github.io/2020/07/07/test2/</id>
+    <published>2020-07-07T04:22:02.000Z</published>
+    <updated>2020-07-09T12:27:39.734Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://dragonhunter007.github.io/2020/07/07/article-title/"/>
+    <id>https://dragonhunter007.github.io/2020/07/07/article-title/</id>
+    <published>2020-07-06T18:16:41.000Z</published>
+    <updated>2020-07-06T18:16:41.428Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dragonhunter007.github.io/2020/07/07/hello-world/"/>
+    <id>https://dragonhunter007.github.io/2020/07/07/hello-world/</id>
+    <published>2020-07-06T17:21:13.444Z</published>
+    <updated>2020-07-06T17:21:13.444Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
