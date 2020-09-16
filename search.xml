@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test_video2</title>
+      <link href="/2020/07/16/test-video2/"/>
+      <url>/2020/07/16/test-video2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"https://www.bilibili.com/video/BV1ua4y1a7cJ  autoplay=true\""}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> video </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test6</title>
       <link href="/2020/07/09/test6/"/>
       <url>/2020/07/09/test6/</url>
@@ -23,25 +42,6 @@
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>1</p>]]></content>
       
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test_video2</title>
-      <link href="/2020/07/08/test-video2/"/>
-      <url>/2020/07/08/test-video2/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"https://www.bilibili.com/video/BV1ua4y1a7cJ  autoplay=true\""}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
-      
-      
-      <categories>
-          
-          <category> video </category>
-          
-      </categories>
       
       
     </entry>

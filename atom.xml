@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragonhunter007.github.io/"/>
-  <updated>2020-07-09T15:17:01.375Z</updated>
+  <updated>2020-09-16T01:37:51.882Z</updated>
   <id>https://dragonhunter007.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test_video2</title>
+    <link href="https://dragonhunter007.github.io/2020/07/16/test-video2/"/>
+    <id>https://dragonhunter007.github.io/2020/07/16/test-video2/</id>
+    <published>2020-07-16T05:40:45.000Z</published>
+    <updated>2020-09-16T01:37:51.882Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="video" scheme="https://dragonhunter007.github.io/categories/video/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>test6</title>
@@ -58,31 +83,6 @@
     
     </summary>
     
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_video2</title>
-    <link href="https://dragonhunter007.github.io/2020/07/08/test-video2/"/>
-    <id>https://dragonhunter007.github.io/2020/07/08/test-video2/</id>
-    <published>2020-07-08T05:40:45.000Z</published>
-    <updated>2020-07-09T15:09:57.967Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="video" scheme="https://dragonhunter007.github.io/categories/video/"/>
     
     
   </entry>
