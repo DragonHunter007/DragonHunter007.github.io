@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragonhunter007.github.io/"/>
-  <updated>2020-09-16T20:24:38.465Z</updated>
+  <updated>2020-09-17T04:23:26.103Z</updated>
   <id>https://dragonhunter007.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>怪物猎人</title>
-    <link href="https://dragonhunter007.github.io/2020/07/17/guai-wu-xi-ren/"/>
-    <id>https://dragonhunter007.github.io/2020/07/17/guai-wu-xi-ren/</id>
-    <published>2020-07-17T15:46:26.000Z</published>
-    <updated>2020-09-16T20:24:38.465Z</updated>
+    <title>上古卷轴5</title>
+    <link href="https://dragonhunter007.github.io/2020/09/17/shang-gu-juan-zhou-5/"/>
+    <id>https://dragonhunter007.github.io/2020/09/17/shang-gu-juan-zhou-5/</id>
+    <published>2020-09-17T03:00:23.000Z</published>
+    <updated>2020-09-17T04:23:26.103Z</updated>
     
     <summary type="html">
     
@@ -36,7 +36,32 @@
     </summary>
     
     
-      <category term="“game”" scheme="https://dragonhunter007.github.io/categories/%E2%80%9Cgame%E2%80%9D/"/>
+      <category term="game" scheme="https://dragonhunter007.github.io/categories/game/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>怪物猎人</title>
+    <link href="https://dragonhunter007.github.io/2020/07/17/guai-wu-xi-ren/"/>
+    <id>https://dragonhunter007.github.io/2020/07/17/guai-wu-xi-ren/</id>
+    <published>2020-07-17T15:46:26.000Z</published>
+    <updated>2020-09-17T01:33:47.041Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="game" scheme="https://dragonhunter007.github.io/categories/game/"/>
     
     
   </entry>
