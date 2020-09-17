@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragonhunter007.github.io/"/>
-  <updated>2020-09-17T05:41:39.652Z</updated>
+  <updated>2020-09-17T14:35:56.154Z</updated>
   <id>https://dragonhunter007.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>荒野之息</title>
+    <link href="https://dragonhunter007.github.io/2020/09/17/huang-ye-zhi-xi/"/>
+    <id>https://dragonhunter007.github.io/2020/09/17/huang-ye-zhi-xi/</id>
+    <published>2020-09-17T11:24:15.000Z</published>
+    <updated>2020-09-17T14:35:56.154Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>上古卷轴5</title>
@@ -67,56 +90,6 @@
   </entry>
   
   <entry>
-    <title>test_video2</title>
-    <link href="https://dragonhunter007.github.io/2020/07/16/test-video2/"/>
-    <id>https://dragonhunter007.github.io/2020/07/16/test-video2/</id>
-    <published>2020-07-16T05:40:45.000Z</published>
-    <updated>2020-09-16T01:37:51.882Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="video" scheme="https://dragonhunter007.github.io/categories/video/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_video</title>
-    <link href="https://dragonhunter007.github.io/2020/07/08/test-video/"/>
-    <id>https://dragonhunter007.github.io/2020/07/08/test-video/</id>
-    <published>2020-07-08T05:19:11.000Z</published>
-    <updated>2020-07-08T05:31:01.198Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="video" scheme="https://dragonhunter007.github.io/categories/video/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>漫威蜘蛛侠测评 </title>
     <link href="https://dragonhunter007.github.io/2020/07/08/man-wei-zhi-zhu-xia/"/>
     <id>https://dragonhunter007.github.io/2020/07/08/man-wei-zhi-zhu-xia/</id>
@@ -137,71 +110,6 @@
     
     
       <category term="game" scheme="https://dragonhunter007.github.io/categories/game/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_music2</title>
-    <link href="https://dragonhunter007.github.io/2020/07/08/test-music2/"/>
-    <id>https://dragonhunter007.github.io/2020/07/08/test-music2/</id>
-    <published>2020-07-07T17:14:52.000Z</published>
-    <updated>2020-09-16T17:49:47.393Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="picture" scheme="https://dragonhunter007.github.io/categories/picture/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_music</title>
-    <link href="https://dragonhunter007.github.io/2020/07/08/test-music/"/>
-    <id>https://dragonhunter007.github.io/2020/07/08/test-music/</id>
-    <published>2020-07-07T17:02:33.000Z</published>
-    <updated>2020-07-10T05:41:51.432Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="music" scheme="https://dragonhunter007.github.io/categories/music/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>article title</title>
-    <link href="https://dragonhunter007.github.io/2020/07/07/article-title/"/>
-    <id>https://dragonhunter007.github.io/2020/07/07/article-title/</id>
-    <published>2020-07-06T18:16:41.000Z</published>
-    <updated>2020-07-06T18:16:41.428Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
     
   </entry>
